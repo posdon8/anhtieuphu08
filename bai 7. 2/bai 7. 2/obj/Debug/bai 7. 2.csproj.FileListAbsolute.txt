@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\bai 7. 2\bai 7. 2\bin\Debug\bai 7. 2.exe.config
+C:\Users\DELL\source\repos\bai 7. 2\bai 7. 2\bin\Debug\bai 7. 2.exe
+C:\Users\DELL\source\repos\bai 7. 2\bai 7. 2\bin\Debug\bai 7. 2.pdb
+C:\Users\DELL\source\repos\bai 7. 2\bai 7. 2\obj\Debug\bai 7. 2.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\bai 7. 2\bai 7. 2\obj\Debug\bai 7. 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\bai 7. 2\bai 7. 2\obj\Debug\bai_7._2.Form1.resources
+C:\Users\DELL\source\repos\bai 7. 2\bai 7. 2\obj\Debug\bai_7._2.Properties.Resources.resources
+C:\Users\DELL\source\repos\bai 7. 2\bai 7. 2\obj\Debug\bai 7. 2.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\bai 7. 2\bai 7. 2\obj\Debug\bai 7. 2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\bai 7. 2\bai 7. 2\obj\Debug\bai 7. 2.exe
+C:\Users\DELL\source\repos\bai 7. 2\bai 7. 2\obj\Debug\bai 7. 2.pdb
